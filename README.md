@@ -63,3 +63,4 @@ php artisan --version
 //Laravel Framework 5.8-dev
 ### reference
 [1] [Laravel - Installation](https://www.tutorialspoint.com/laravel/laravel_installation.htm)
+[2] [Laravel From Scratch](https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
