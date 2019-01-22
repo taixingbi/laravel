@@ -1,3 +1,7 @@
+#### remove storage in /public/
+rm public/storage     
+php artisan storage:link    
+
 #### run server
 php artisan serve
 
